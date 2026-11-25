@@ -8,6 +8,14 @@
 ![Controle financeiro](38a75511-e889-11f1-984a-9777e030d26c.png)
 
 ![Resumo mensal](38a77c20-e889-11f1-984a-9777e030d26c.png)
+
+## 📲 Baixe o aplicativo
+
+Quer experimentar o Dia no Controle?
+
+[⬇️ BAIXAR O DIA NO CONTROLE](https://drive.google.com/file/d/1s4lO7jhU9eEqlYTjbt61tUl6lK_zn9Do/view?usp=drivesdk)
+
+**Organize seu trabalho. Controle seus resultados.**
 # 🚀 Dia no Controle
 
 ### Organize seu trabalho. Controle seus resultados.
