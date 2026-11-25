@@ -1,5 +1,13 @@
 ![Dia no Controle](1d30c440-e87c-11f1-90fe-43f8d99857d4.png)
 
+
+## 📱 Conheça o aplicativo
+
+![Tela inicial](38a75510-e889-11f1-984a-9777e030d26c.png)
+
+![Controle financeiro](38a75511-e889-11f1-984a-9777e030d26c.png)
+
+![Resumo mensal](38a77c20-e889-11f1-984a-9777e030d26c.png)
 # 🚀 Dia no Controle
 
 ### Organize seu trabalho. Controle seus resultados.
