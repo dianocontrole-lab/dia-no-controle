@@ -1,3 +1,5 @@
+![Dia no Controle](1d30c440-e87c-11f1-90fe-43f8d99857d4.png)
+
 # 🚀 Dia no Controle
 
 ### Organize seu trabalho. Controle seus resultados.
